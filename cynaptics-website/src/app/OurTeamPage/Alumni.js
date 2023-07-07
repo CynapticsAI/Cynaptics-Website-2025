@@ -34,7 +34,7 @@ export const Alumni = [
         id: `alumni_4`,
         name: "Tarun Gupta",
         position:"alumni",
-        passout_year: 2023,
+        passout_year: 2022,
         email: "tarungupta360@gmail.co",
         linkedin: "https://www.linkedin.com/in/tarun-gupta-116860178/",
         github: "https://github.com/tarun360",
