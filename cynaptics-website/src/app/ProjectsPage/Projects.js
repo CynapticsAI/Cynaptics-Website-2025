@@ -83,4 +83,107 @@ export const Projects = [
         image1: require("../../../public/images/Projects/project1/image1.jpg"),
         image2: require("../../../public/images/Projects/project1/image2.jpg"),
     },
+    {
+        id: 8,
+        project_title: "Music Recommendation System",
+        desc1: "<div>Creating the best algorithm for music recommender system by testing various recommendation techniques</div>",
+        display_desc:
+            "Creating the best algorithm for music recommender system by testing various recommendation techniques.",
+
+        github_link: "https://github.com/CynapticsAI/MusicReccomender",
+        display_image: require("../../../public/images/Projects/project8/display_image.png"),
+    },
+    {
+        id: 9,
+        project_title: "Anywhere Piano",
+        desc1: "<div>Creating real time virtual piano using CV that can be played anywhere and anytime with adjustable piano size</div>",
+        display_desc:
+            "Creating real time virtual piano using CV that can be played anywhere and anytime with adjustable piano size",
+        github_link: "https://github.com/CynapticsAI/AnywherePiano",
+        video: "/videos/projects/project9/video1.mp4",
+        display_image: require("../../../public/images/Projects/project9/display_image.png"),
+    },
+    {
+        id: 10,
+        project_title: "LUX AI RL",
+        desc1: "<div>Introduction and extensive exposure to RL and its intricacies by trying different RL Algorithms on LUX AI Competition</div>",
+        display_desc:
+            "Introduction and extensive exposure to RL and its intricacies by trying different RL Algorithms on LUX AI Competition",
+        github_link: "https://github.com/CynapticsAI/LuxAI-RL",
+        display_image: require("../../../public/images/Projects/project10/display_image.png"),
+    },
+    {
+        id: 11,
+        project_title: "Tranlate and Summarize News",
+        desc1: "<div>Creating a system which automatically delivers news summaries in local language, keeping in mind the fact that many people not well versed with English also like to keep up with the daily happenings of the world. Task is to create an efficient pipeline and ensure that the factuality of the news through summarization and translation</div>",
+        display_desc:
+            "Creating a system which automatically delivers news summaries in local language, keeping in mind the fact that many people not well versed with English also like to keep up with the daily happenings of the world. Task is to create an efficient pipeline and ensure that the factuality of the news through summarization and translation",
+        github_link: "https://github.com/CynapticsAI/NewsFlash",
+        display_image: require("../../../public/images/Projects/project11/display_image.png"),
+    },
+    {
+        id: 12,
+        project_title: "EMG signal gesture identification",
+        desc1: "<div>Creating a model that is capable of classifying different arm gestures whose signal data is recorded using myoarm bands. This project gave an exposure to digital signal processing and various classification model in existence</div>",
+        display_desc:
+            "Creating a model that is capable of classifying different arm gestures whose signal data is recorded using myoarm bands. This project gave an exposure to digital signal processing and various classification model in existence",
+        github_link: "https://github.com/CynapticsAI/EMG-Gesture-Detection",
+        display_image: require("../../../public/images/Projects/project12/display_image.png"),
+    },
+    {
+        id: 13,
+        project_title: "Automatic Meeting Notes",
+        desc1: "<div>Developing a model to make automatic meeting notes from the Audio recording of the meeting and translating it to the user specific language</div>",
+        display_desc:
+            "Developing a model to make automatic meeting notes from the Audio recording of the meeting and translating it to the user specific language",
+        video: "/videos/projects/project13/video1.mp4",
+        github_link: "https://github.com/CynapticsAI/AutomaticMeetingNotes",
+        display_image: require("../../../public/images/Projects/project13/display_image.png"),
+    },
+    {
+        id: 14,
+        project_title: "Adobe-Mid Prep Problem Statement: Behaviour Simulation CHallenge-Inter IIT Tech Meet",
+        desc1: "<div>The challenge involves behavior simulation and content generation, divided into two tasks. Behaviour Simulation focuses on to give the user, an estimated number of likes that a particular tweet will recieve on twitter if the tweet is posted on the platfrom from the community. The Content Generation aims to generate the content of the tweet, given the metadata of the tweet, i.e. given the number of likes, content attached, time, usernames etc. predict what would be the tweet.</div>",
+        display_desc:
+            "<div>The challenge involves behavior simulation and content generation, divided into two tasks. Behaviour Simulation focuses on to give the user, an estimated number of likes that a particular tweet will recieve on twitter if the tweet is posted on the platfrom from the community. The Content Generation aims to generate the content of the tweet, given the metadata of the tweet, i.e. given the number of likes, content attached, time, usernames etc. predict what would be the tweet.</div>",
+        github_link: "https://github.com/CynapticsAI/Adobe-Behaviour-Simulation-Challenge",
+        display_image: require("../../../public/images/Projects/project14/display_image.png"),
+    },
+    {
+        id: 15,
+        project_title: "DevRev-High Prep Problem Statement: Inter IIT Tech Meet",
+        desc1: "<div>The primary goal of this challenge was to design a language model equipped with a toolkit capable of generating an output. This output should be a subset of the tools and their corresponding arguments, enabling the composition of an answer to a natural language query inputted by the user.</div>",
+        display_desc:
+            "The primary goal of this challenge was to design a language model equipped with a toolkit capable of generating an output. This output should be a subset of the tools and their corresponding arguments, enabling the composition of an answer to a natural language query inputted by the user.",
+        github_link: "https://github.com/CynapticsAI/DevRev-InterIIT_2023",
+        display_image: require("../../../public/images/Projects/project15/display_image.png"),
+    },
+    {
+        id: 16,
+        project_title: "TryOnAI",
+        desc1: "<div>Try On AI refers to an application that allows users to virtually 'try on' clothing, accessories, or other items using augmented reality (AR) or virtual reality (VR) technology. This project could involve creating a platform where users upload a photo of themselves, and the AI technology superimposes different clothing items onto their image to show how they might look when wearing those items</div>",
+        display_desc:
+            "Try On AI refers to an application that allows users to virtually 'try on' clothing, accessories, or other items using augmented reality (AR) or virtual reality (VR) technology. This project could involve creating a platform where users upload a photo of themselves, and the AI technology superimposes different clothing items onto their image to show how they might look when wearing those items",
+        github_link: "https://github.com/CynapticsAI/TryOnAI",
+        display_image: require("../../../public/images/Projects/project16/display_image.png"),
+    },
+    {
+        id: 17,
+        project_title: "Stock Prize Prediction",
+        desc1: "<div>This project aims to predict the prices of stocks using historical data and machine learning algorithms. This project is based on Time Series Prediction models like meta's fbprophet and also models based on LSTM (RNN).</div>",
+        display_desc:
+            "This project aims to predict the prices of stocks using historical data and machine learning algorithms. This project is based on Time Series Prediction models like meta's fbprophet and also models based on LSTM (RNN).",
+        github_link: "https://github.com/CynapticsAI/StockPricePrediction",
+        display_image: require("../../../public/images/Projects/project17/display_image.png"),
+        image1: require("../../../public/images/Projects/project17/image1.png"),
+    },
+    {
+        id: 18,
+        project_title: "AI Companion",
+        desc1: "<div>AI Companion that listens to you and talks to you. It uses OpenAI Whisper-Tiny model that convert speech to text, PersonaGPT model which responds to the output and gTTS model that converts text to speech.</div>",
+        display_desc:
+            "AI Companion that listens to you and talks to you. It uses OpenAI Whisper-Tiny model that convert speech to text, PersonaGPT model which responds to the output and gTTS model that converts text to speech.",
+        github_link: "https://github.com/CynapticsAI/AICompanion",
+        display_image: require("../../../public/images/Projects/project18/display_image.png"),
+    },
 ];

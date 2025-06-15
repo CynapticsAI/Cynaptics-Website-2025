@@ -734,5 +734,15 @@ export const TeamMembers = [
     github: "https://github.com/Sarathchandra-kvl",
     image: require("../../../public/images/Members/Sarath Chandra KVL.jpeg"),     // ✅
   },
+  {
+    id: 74,
+    name: "Yash Arya Saxena",
+    position: "Member",
+    branch: "CSE",
+    email: "cse240001081@iiti.ac.in",
+    linkedin: "https://www.linkedin.com/in/yash-arya-saxena-834021331/",
+    github: "https://github.com/yasharyasaxena",
+    image: require("../../../public/images/Members/Yash Arya Saxena.jpg"),     // ✅
+  }
 
 ];
