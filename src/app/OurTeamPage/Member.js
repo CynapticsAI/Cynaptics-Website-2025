@@ -450,7 +450,7 @@ export const TeamMembers = [
     linkedin:
       "https://www.linkedin.com/in/abhiraj-kumar-6729b02a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     github: "https://github.com/Quantique-Realm",
-    image: require("../../../public/images/Members/Abhiraj Kumar.JPG"),     // ✅
+    image: require("../../../public/images/Members/Abhiraj Kumar.jpg"),     // ✅
   },
   {
     id: 46,
